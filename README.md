@@ -27,6 +27,7 @@ Aqui estão os prompts utilizados, o eBook final e o link do artigo relacionado.
 ## 📖 Ebook Final
 👉 [Clique aqui para baixar o eBook](ebook/meu-ebook.pdf)
 
+
 ---
 
 ## ✨ Autor
